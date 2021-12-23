@@ -1,0 +1,20 @@
+40 12 500 5000
+40.dat 16 1175(-21)/mV 0 0 -40 28862 0 i
+40.dat 16 1315(-16)/mV 0 0 -100 -12422 0 ii
+40.dat 16 1030(4)/mV 0 0 -60 24252 0 iii
+40.dat 16 1088(17)/mV 0 0 70 24443 0 avr
+40.dat 16 1088(-13)/mV 0 0 10 3093 0 avl
+40.dat 16 925(-6)/mV 0 0 -80 -26359 0 avf
+40.dat 16 1335(-7)/mV 0 0 80 -30349 0 v1
+40.dat 16 1070(-8)/mV 0 0 60 27735 0 v2
+40.dat 16 1825(-17)/mV 0 0 -100 -16512 0 v3
+40.dat 16 2065(-21)/mV 0 0 -320 28878 0 v4
+40.dat 16 2250(-15)/mV 0 0 200 -5478 0 v5
+40.dat 16 1475(-19)/mV 0 0 0 -26381 0 v6
+#<age>: 57
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

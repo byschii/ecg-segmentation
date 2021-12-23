@@ -1,0 +1,20 @@
+189 12 500 5000
+189.dat 16 779(0)/mV 0 0 -5 2374 0 i
+189.dat 16 1219(1)/mV 0 0 -97 7805 0 ii
+189.dat 16 777(1)/mV 0 0 -92 5431 0 iii
+189.dat 16 968(-2)/mV 0 0 51 -5378 0 avr
+189.dat 16 381(-1)/mV 0 0 43 -1646 0 avl
+189.dat 16 982(1)/mV 0 0 -95 6081 0 avf
+189.dat 16 1404(0)/mV 0 0 -17 1365 0 v1
+189.dat 16 2211(-2)/mV 0 0 -150 -7824 0 v2
+189.dat 16 1987(-2)/mV 0 0 -107 -5609 0 v3
+189.dat 16 2104(1)/mV 0 0 -345 9019 0 v4
+189.dat 16 1579(-1)/mV 0 0 -37 -4590 0 v5
+189.dat 16 1472(0)/mV 0 0 -190 721 0 v6
+#<age>: 17
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: horizontal. 
+#Non-specific repolarization abnormalities: anterior wall. 
+#Non-specific repolarization abnormalities: septal. 

@@ -1,0 +1,22 @@
+163 12 500 5000
+163.dat 16 1333(1)/mV 0 0 -207 8467 0 i
+163.dat 16 1697(2)/mV 0 0 -312 12018 0 ii
+163.dat 16 926(0)/mV 0 0 -105 3551 0 iii
+163.dat 16 1485(-3)/mV 0 0 259 -10510 0 avr
+163.dat 16 753(0)/mV 0 0 -51 2249 0 avl
+163.dat 16 1111(1)/mV 0 0 -209 7369 0 avf
+163.dat 16 1947(0)/mV 0 0 135 2772 0 v1
+163.dat 16 2394(-1)/mV 0 0 -302 -3869 0 v2
+163.dat 16 2696(-1)/mV 0 0 -102 -740 0 v3
+163.dat 16 2162(1)/mV 0 0 -180 5944 0 v4
+163.dat 16 1872(0)/mV 0 0 -117 2484 0 v5
+163.dat 16 1797(0)/mV 0 0 27 2022 0 v6
+#<age>: 56
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Right atrial overload. 
+#Left atrial overload. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: inferior wall. 

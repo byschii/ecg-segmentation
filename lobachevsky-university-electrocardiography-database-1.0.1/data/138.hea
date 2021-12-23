@@ -1,0 +1,24 @@
+138 12 500 5000
+138.dat 16 1299(1)/mV 0 0 7 9719 0 i
+138.dat 16 685(-1)/mV 0 0 22 -1922 0 ii
+138.dat 16 1102(-3)/mV 0 0 15 -11641 0 iii
+138.dat 16 865(-1)/mV 0 0 -14 -4043 0 avr
+138.dat 16 1160(2)/mV 0 0 -4 10731 0 avl
+138.dat 16 569(-2)/mV 0 0 19 -6839 0 avf
+138.dat 16 1139(-1)/mV 0 0 60 -485 0 v1
+138.dat 16 1296(-3)/mV 0 0 -92 -11448 0 v2
+138.dat 16 1354(-1)/mV 0 0 10 -4153 0 v3
+138.dat 16 1379(1)/mV 0 0 82 5790 0 v4
+138.dat 16 1125(-2)/mV 0 0 52 -6618 0 v5
+138.dat 16 1064(0)/mV 0 0 -167 3176 0 v6
+#<age>: 67
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left anterior hemiblock. 
+#Left atrial hypertrophy. 
+#Non-specific repolarization abnormalities: anterior wall. 
+#Non-specific repolarization abnormalities: septal. 
+#Non-specific repolarization abnormalities: inferior wall. 
+#Non-specific repolarization abnormalities: apical. 

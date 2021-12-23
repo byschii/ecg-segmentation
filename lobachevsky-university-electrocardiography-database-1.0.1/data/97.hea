@@ -1,0 +1,22 @@
+97 12 500 5000
+97.dat 16 900(-17)/mV 0 0 -20 -18426 0 i
+97.dat 16 790(-17)/mV 0 0 60 -16538 0 ii
+97.dat 16 785(0)/mV 0 0 80 1888 0 iii
+97.dat 16 813(16)/mV 0 0 -20 17395 0 avr
+97.dat 16 755(-9)/mV 0 0 -50 23175 0 avl
+97.dat 16 580(-9)/mV 0 0 70 25449 0 avf
+97.dat 16 860(-11)/mV 0 0 40 14827 0 v1
+97.dat 16 1905(-12)/mV 0 0 -280 8270 0 v2
+97.dat 16 2290(-16)/mV 0 0 -160 -13252 0 v3
+97.dat 16 2555(-14)/mV 0 0 -220 -1950 0 v4
+97.dat 16 1645(-14)/mV 0 0 -80 -4292 0 v5
+97.dat 16 1290(-18)/mV 0 0 -80 -23068 0 v6
+#<age>: 58
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Incomplete right bundle branch block. 
+#Left anterior hemiblock. 
+#Left atrial hypertrophy. 
+#Non-specific repolarization abnormalities: inferior wall. 

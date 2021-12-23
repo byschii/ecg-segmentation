@@ -1,0 +1,20 @@
+173 12 500 5000
+173.dat 16 1606(-1)/mV 0 0 -89 -29 0 i
+173.dat 16 1399(-1)/mV 0 0 -37 -830 0 ii
+173.dat 16 780(-1)/mV 0 0 52 -801 0 iii
+173.dat 16 1366(0)/mV 0 0 63 132 0 avr
+173.dat 16 1048(0)/mV 0 0 -71 46 0 avl
+173.dat 16 866(-1)/mV 0 0 7 -1040 0 avf
+173.dat 16 1384(-1)/mV 0 0 172 -317 0 v1
+173.dat 16 2319(-1)/mV 0 0 -262 -4288 0 v2
+173.dat 16 2859(-1)/mV 0 0 177 -1015 0 v3
+173.dat 16 3471(-2)/mV 0 0 -205 -6224 0 v4
+173.dat 16 5204(0)/mV 0 0 10 1871 0 v5
+173.dat 16 4392(-1)/mV 0 0 -100 -3267 0 v6
+#<age>: 79
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: horizontal. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: inferior wall. 

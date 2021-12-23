@@ -1,0 +1,23 @@
+86 12 500 5000
+86.dat 16 870(-13)/mV 0 0 -180 676 0 i
+86.dat 16 844(-20)/mV 0 0 -200 -31967 0 ii
+86.dat 16 920(-7)/mV 0 0 -20 -32643 0 iii
+86.dat 16 773(16)/mV 0 0 190 15725 0 avr
+86.dat 16 700(-4)/mV 0 0 -80 -15408 0 avl
+86.dat 16 772(-13)/mV 0 0 -110 863 0 avf
+86.dat 16 1605(-11)/mV 0 0 220 14104 0 v1
+86.dat 16 3290(-15)/mV 0 0 200 -7403 0 v2
+86.dat 16 2325(-15)/mV 0 0 100 -6928 0 v3
+86.dat 16 2190(-16)/mV 0 0 -60 -10091 0 v4
+86.dat 16 2050(-10)/mV 0 0 -20 16491 0 v5
+86.dat 16 1310(-15)/mV 0 0 -40 -7966 0 v6
+#<age>: 50
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#STEMI: anterior wall. 
+#STEMI: septal. 
+#STEMI: apical. 

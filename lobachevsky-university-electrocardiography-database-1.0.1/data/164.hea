@@ -1,0 +1,24 @@
+164 12 500 5000
+164.dat 16 989(1)/mV 0 0 28 8701 0 i
+164.dat 16 817(1)/mV 0 0 -27 7035 0 ii
+164.dat 16 999(-1)/mV 0 0 -55 -1666 0 iii
+164.dat 16 753(-2)/mV 0 0 0 -8371 0 avr
+164.dat 16 881(1)/mV 0 0 41 5148 0 avl
+164.dat 16 741(0)/mV 0 0 -41 2056 0 avf
+164.dat 16 1485(-1)/mV 0 0 2 -1175 0 v1
+164.dat 16 1326(0)/mV 0 0 -142 3970 0 v2
+164.dat 16 1739(-2)/mV 0 0 -75 -7671 0 v3
+164.dat 16 1710(-3)/mV 0 0 -65 -10234 0 v4
+164.dat 16 1352(-1)/mV 0 0 -132 -4483 0 v5
+164.dat 16 1124(-2)/mV 0 0 -35 -6856 0 v6
+#<age>: 41
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left anterior hemiblock. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Scar formation: anterior wall. 
+#Scar formation: septal. 
+#Non-specific repolarization abnormalities: posterior wall. 

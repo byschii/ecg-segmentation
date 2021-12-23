@@ -1,0 +1,27 @@
+125 12 500 5000
+125.dat 16 1679(-21)/mV 0 0 -200 27872 0 i
+125.dat 16 1950(-7)/mV 0 0 40 32185 0 ii
+125.dat 16 3239(13)/mV 0 0 240 4313 0 iii
+125.dat 16 1185(13)/mV 0 0 80 1522 0 avr
+125.dat 16 2367(-18)/mV 0 0 -220 -20835 0 avl
+125.dat 16 2497(3)/mV 0 0 140 17179 0 avf
+125.dat 16 2970(-27)/mV 0 0 -600 -437 0 v1
+125.dat 16 5607(-13)/mV 0 0 1460 3617 0 v2
+125.dat 16 7945(-10)/mV 0 0 -40 17157 0 v3
+125.dat 16 10380(-5)/mV 0 0 260 -22583 0 v4
+125.dat 16 5559(-13)/mV 0 0 120 2532 0 v5
+125.dat 16 3599(-6)/mV 0 0 400 -25582 0 v6
+#<age>: 67
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: left axis deviation. 
+#Incomplete right bundle branch block. 
+#Left anterior hemiblock. 
+#Ventricular extrasystole, morphology: polymorphic. 
+#Ventricular extrasystole, localisation: RVOT, anterior wall. 
+#Ventricular extrasystole, localisation: LV, undefined. 
+#Ventricular extrasystole, type: couplet. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Left ventricular overload. 

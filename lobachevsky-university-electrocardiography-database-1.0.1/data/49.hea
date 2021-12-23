@@ -1,0 +1,19 @@
+49 12 500 5000
+49.dat 16 1176(-1)/mV 0 0 -15 -636 0 i
+49.dat 16 1414(-1)/mV 0 0 -5 -2716 0 ii
+49.dat 16 862(-1)/mV 0 0 10 -2080 0 iii
+49.dat 16 1214(0)/mV 0 0 10 1057 0 avr
+49.dat 16 838(0)/mV 0 0 -13 89 0 avl
+49.dat 16 1009(-1)/mV 0 0 2 -3164 0 avf
+49.dat 16 1547(-2)/mV 0 0 -20 -6558 0 v1
+49.dat 16 2262(-1)/mV 0 0 -30 -3912 0 v2
+49.dat 16 2527(-1)/mV 0 0 27 -4865 0 v3
+49.dat 16 3129(0)/mV 0 0 52 3394 0 v4
+49.dat 16 2798(-2)/mV 0 0 -32 -5313 0 v5
+49.dat 16 2114(-2)/mV 0 0 -67 -9177 0 v6
+#<age>: 68
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Left ventricular hypertrophy. 

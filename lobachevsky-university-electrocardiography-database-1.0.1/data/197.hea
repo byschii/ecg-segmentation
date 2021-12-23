@@ -1,0 +1,19 @@
+197 12 500 5000
+197.dat 16 953(0)/mV 0 0 -15 828 0 i
+197.dat 16 1584(-1)/mV 0 0 -27 -461 0 ii
+197.dat 16 1122(-1)/mV 0 0 -12 -1289 0 iii
+197.dat 16 1216(-1)/mV 0 0 21 -301 0 avr
+197.dat 16 594(0)/mV 0 0 -2 1037 0 avl
+197.dat 16 1287(-1)/mV 0 0 -20 -1158 0 avf
+197.dat 16 2124(-1)/mV 0 0 72 -1311 0 v1
+197.dat 16 2844(1)/mV 0 0 37 6426 0 v2
+197.dat 16 2094(2)/mV 0 0 -110 11149 0 v3
+197.dat 16 1914(0)/mV 0 0 -35 3311 0 v4
+197.dat 16 2077(-1)/mV 0 0 175 -4038 0 v5
+197.dat 16 1579(-1)/mV 0 0 -45 -4089 0 v6
+#<age>: 34
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus arrhythmia.
+#Electric axis of the heart: normal. 
+#Right atrial overload. 

@@ -1,0 +1,23 @@
+27 12 500 5000
+27.dat 16 979(5)/mV 0 0 127 28893 0 i
+27.dat 16 589(1)/mV 0 0 7 5807 0 ii
+27.dat 16 682(-5)/mV 0 0 -120 -23086 0 iii
+27.dat 16 721(-4)/mV 0 0 -67 -17531 0 avr
+27.dat 16 817(5)/mV 0 0 124 25705 0 avl
+27.dat 16 367(-2)/mV 0 0 -56 -8952 0 avf
+27.dat 16 954(-4)/mV 0 0 -45 -19558 0 v1
+27.dat 16 1260(-5)/mV 0 0 -167 -23860 0 v2
+27.dat 16 1775(-6)/mV 0 0 -197 -28684 0 v3
+27.dat 16 2554(-11)/mV 0 0 -410 11681 0 v4
+27.dat 16 2129(0)/mV 0 0 0 4344 0 v5
+27.dat 16 1257(0)/mV 0 0 -65 2597 0 v6
+#<age>: 66
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: horizontal. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: anterior wall. 
+#Non-specific repolarization abnormalities: lateral wall. 
+#Non-specific repolarization abnormalities: inferior wall. 

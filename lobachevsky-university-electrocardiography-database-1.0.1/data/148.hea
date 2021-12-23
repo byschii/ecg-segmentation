@@ -1,0 +1,19 @@
+148 12 500 5000
+148.dat 16 641(3)/mV 0 0 20 15184 0 i
+148.dat 16 1689(2)/mV 0 0 165 12139 0 ii
+148.dat 16 1290(-1)/mV 0 0 145 -3045 0 iii
+148.dat 16 1065(-3)/mV 0 0 -92 -13923 0 avr
+148.dat 16 600(1)/mV 0 0 -62 8792 0 avl
+148.dat 16 1470(0)/mV 0 0 155 4386 0 avf
+148.dat 16 1187(-1)/mV 0 0 75 -1750 0 v1
+148.dat 16 2182(0)/mV 0 0 12 1488 0 v2
+148.dat 16 2134(-2)/mV 0 0 185 -7778 0 v3
+148.dat 16 2040(-1)/mV 0 0 210 -1052 0 v4
+148.dat 16 1424(-2)/mV 0 0 2 -5470 0 v5
+148.dat 16 1127(0)/mV 0 0 255 827 0 v6
+#<age>: 26
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: vertical. 
+#Right atrial overload. 

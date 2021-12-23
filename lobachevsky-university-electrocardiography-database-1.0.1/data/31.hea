@@ -1,0 +1,23 @@
+31 12 500 5000
+31.dat 16 1874(7)/mV 0 0 92 -28863 0 i
+31.dat 16 1832(2)/mV 0 0 85 11620 0 ii
+31.dat 16 627(-6)/mV 0 0 -7 -25053 0 iii
+31.dat 16 1781(-5)/mV 0 0 -88 -24754 0 avr
+31.dat 16 1084(6)/mV 0 0 50 30440 0 avl
+31.dat 16 1138(-2)/mV 0 0 39 -7319 0 avf
+31.dat 16 1619(-5)/mV 0 0 -47 -21714 0 v1
+31.dat 16 2815(-5)/mV 0 0 -105 -21106 0 v2
+31.dat 16 3184(-1)/mV 0 0 0 -319 0 v3
+31.dat 16 2287(-2)/mV 0 0 -50 -6545 0 v4
+31.dat 16 1897(-3)/mV 0 0 -75 -10190 0 v5
+31.dat 16 1556(-3)/mV 0 0 -45 -10090 0 v6
+#<age>: 71
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Incomplete right bundle branch block. 
+#Left ventricular hypertrophy. 
+#Ischemia: lateral wall. 
+#Ischemia: inferior wall. 
+#Ischemia: apical. 

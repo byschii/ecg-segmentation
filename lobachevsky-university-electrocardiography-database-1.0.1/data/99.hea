@@ -1,0 +1,21 @@
+99 12 500 5000
+99.dat 16 730(-10)/mV 0 0 40 17960 0 i
+99.dat 16 2280(-10)/mV 0 0 -140 16214 0 ii
+99.dat 16 2465(-1)/mV 0 0 -180 -1746 0 iii
+99.dat 16 1288(9)/mV 0 0 50 -16831 0 avr
+99.dat 16 1443(-5)/mV 0 0 110 -22071 0 avl
+99.dat 16 2372(-6)/mV 0 0 -160 -25014 0 avf
+99.dat 16 1815(-18)/mV 0 0 620 -20246 0 v1
+99.dat 16 4321(-17)/mV 0 0 420 -18953 0 v2
+99.dat 16 5245(-9)/mV 0 0 200 23067 0 v3
+99.dat 16 3075(-2)/mV 0 0 580 -9845 0 v4
+99.dat 16 2725(-5)/mV 0 0 680 -20902 0 v5
+99.dat 16 1455(-9)/mV 0 0 0 25352 0 v6
+#<age>: 28
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus arrhythmia.
+#Electric axis of the heart: right axis deviation. 
+#Incomplete right bundle branch block. 
+#Non-specific repolarization abnormalities: anterior wall. 
+#Non-specific repolarization abnormalities: septal. 

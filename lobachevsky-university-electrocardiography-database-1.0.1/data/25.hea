@@ -1,0 +1,24 @@
+25 12 500 5000
+25.dat 16 981(-6)/mV 0 0 -250 -25944 0 i
+25.dat 16 1440(-11)/mV 0 0 -450 12371 0 ii
+25.dat 16 639(-6)/mV 0 0 -200 -27221 0 iii
+25.dat 16 1147(7)/mV 0 0 350 -26562 0 avr
+25.dat 16 384(0)/mV 0 0 -25 183 0 avl
+25.dat 16 1028(-9)/mV 0 0 -325 24761 0 avf
+25.dat 16 1380(1)/mV 0 0 90 7630 0 v1
+25.dat 16 1340(-2)/mV 0 0 -137 -8692 0 v2
+25.dat 16 1594(-2)/mV 0 0 -205 -7713 0 v3
+25.dat 16 1734(4)/mV 0 0 -7 23784 0 v4
+25.dat 16 1699(7)/mV 0 0 205 -28420 0 v5
+25.dat 16 1458(4)/mV 0 0 117 23462 0 v6
+#<age>: 51
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Incomplete right bundle branch block. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: anterior wall. 
+#Non-specific repolarization abnormalities: septal. 
+#Non-specific repolarization abnormalities: apical. 

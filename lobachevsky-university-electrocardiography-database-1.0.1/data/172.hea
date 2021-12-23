@@ -1,0 +1,22 @@
+172 12 500 5000
+172.dat 16 658(1)/mV 0 0 -95 6620 0 i
+172.dat 16 1030(0)/mV 0 0 17 4126 0 ii
+172.dat 16 795(-1)/mV 0 0 112 -2494 0 iii
+172.dat 16 761(-2)/mV 0 0 39 -5996 0 avr
+172.dat 16 594(0)/mV 0 0 -103 4124 0 avl
+172.dat 16 802(0)/mV 0 0 64 393 0 avf
+172.dat 16 1734(0)/mV 0 0 60 3702 0 v1
+172.dat 16 1727(0)/mV 0 0 -380 1370 0 v2
+172.dat 16 2100(-3)/mV 0 0 -92 -11384 0 v3
+172.dat 16 2397(-1)/mV 0 0 -367 -1274 0 v4
+172.dat 16 1781(-1)/mV 0 0 -222 -4952 0 v5
+172.dat 16 1742(0)/mV 0 0 -272 4939 0 v6
+#<age>: 60
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: normal. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: septal. 
+#Non-specific repolarization abnormalities: apical. 

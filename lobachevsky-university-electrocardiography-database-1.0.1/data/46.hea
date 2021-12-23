@@ -1,0 +1,24 @@
+46 12 500 5000
+46.dat 16 1553(2)/mV 0 0 -139 12451 0 i
+46.dat 16 826(0)/mV 0 0 -17 2757 0 ii
+46.dat 16 1441(-2)/mV 0 0 122 -9694 0 iii
+46.dat 16 913(-2)/mV 0 0 78 -7767 0 avr
+46.dat 16 1478(2)/mV 0 0 -131 11234 0 avl
+46.dat 16 864(-1)/mV 0 0 52 -3890 0 avf
+46.dat 16 992(-4)/mV 0 0 95 -15767 0 v1
+46.dat 16 1100(-3)/mV 0 0 -42 -13879 0 v2
+46.dat 16 1624(-5)/mV 0 0 -92 -20115 0 v3
+46.dat 16 3314(-8)/mV 0 0 -370 28990 0 v4
+46.dat 16 3197(-2)/mV 0 0 -105 -6139 0 v5
+46.dat 16 2282(-3)/mV 0 0 -195 -12234 0 v6
+#<age>: 63
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left anterior hemiblock. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Undefined ischemia/scar/supp.NSTEMI: anterior wall. 
+#Undefined ischemia/scar/supp.NSTEMI: lateral wall. 
+#Undefined ischemia/scar/supp.NSTEMI: apical. 

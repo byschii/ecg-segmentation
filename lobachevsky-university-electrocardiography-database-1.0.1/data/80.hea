@@ -1,0 +1,22 @@
+80 12 500 5000
+80.dat 16 736(3)/mV 0 0 293 19288 0 i
+80.dat 16 1162(-1)/mV 0 0 600 -4018 0 ii
+80.dat 16 806(-5)/mV 0 0 307 -23306 0 iii
+80.dat 16 854(-2)/mV 0 0 -446 -8171 0 avr
+80.dat 16 421(4)/mV 0 0 -7 20691 0 avl
+80.dat 16 912(-3)/mV 0 0 454 -13439 0 avf
+80.dat 16 1289(0)/mV 0 0 -657 1088 0 v1
+80.dat 16 1536(-1)/mV 0 0 -950 -4370 0 v2
+80.dat 16 1635(-2)/mV 0 0 -700 -8725 0 v3
+80.dat 16 2285(0)/mV 0 0 1222 145 0 v4
+80.dat 16 1814(3)/mV 0 0 1362 17645 0 v5
+80.dat 16 1035(3)/mV 0 0 897 18409 0 v6
+#<age>: 60
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Undefined ischemia/scar/supp.NSTEMI: anterior wall. 
+#Undefined ischemia/scar/supp.NSTEMI: apical. 

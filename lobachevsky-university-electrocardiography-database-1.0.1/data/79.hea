@@ -1,0 +1,21 @@
+79 12 500 5000
+79.dat 16 1145(-24)/mV 0 0 -40 14073 0 i
+79.dat 16 620(-13)/mV 0 0 -100 2697 0 ii
+79.dat 16 990(10)/mV 0 0 -60 -11376 0 iii
+79.dat 16 762(17)/mV 0 0 70 23858 0 avr
+79.dat 16 1017(-18)/mV 0 0 10 -19507 0 avl
+79.dat 16 577(-1)/mV 0 0 -80 -4456 0 avf
+79.dat 16 1260(-7)/mV 0 0 240 32622 0 v1
+79.dat 16 1045(-12)/mV 0 0 -40 6584 0 v2
+79.dat 16 2235(-11)/mV 0 0 -160 13379 0 v3
+79.dat 16 3255(-13)/mV 0 0 -160 2354 0 v4
+79.dat 16 2625(-19)/mV 0 0 0 -26900 0 v5
+79.dat 16 1505(-20)/mV 0 0 -80 -31810 0 v6
+#<age>: 76
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Ischemia: inferior wall. 

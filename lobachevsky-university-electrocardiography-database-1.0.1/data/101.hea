@@ -1,0 +1,22 @@
+101 12 500 5000
+101.dat 16 1060(-10)/mV 0 0 140 16604 0 i
+101.dat 16 2899(-5)/mV 0 0 340 -20966 0 ii
+101.dat 16 2080(5)/mV 0 0 200 27966 0 iii
+101.dat 16 1869(7)/mV 0 0 -240 -30386 0 avr
+101.dat 16 758(-8)/mV 0 0 -30 27495 0 avl
+101.dat 16 2489(0)/mV 0 0 270 4035 0 avf
+101.dat 16 2900(-3)/mV 0 0 380 -10414 0 v1
+101.dat 16 3300(-2)/mV 0 0 280 -8732 0 v2
+101.dat 16 2290(-12)/mV 0 0 480 6749 0 v3
+101.dat 16 3565(-8)/mV 0 0 160 25780 0 v4
+101.dat 16 2800(-11)/mV 0 0 80 14259 0 v5
+101.dat 16 1839(-19)/mV 0 0 60 -26699 0 v6
+#<age>: 44
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: vertical. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: anterior wall. 
+#Non-specific repolarization abnormalities: septal. 
+#Non-specific repolarization abnormalities: apical. 

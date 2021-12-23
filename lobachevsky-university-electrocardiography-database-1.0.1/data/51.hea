@@ -1,0 +1,21 @@
+51 12 500 5000
+51.dat 16 2933(1)/mV 0 0 1800 5556 0 i
+51.dat 16 2282(-3)/mV 0 0 -1110 -13918 0 ii
+51.dat 16 3974(-4)/mV 0 0 -2910 -19474 0 iii
+51.dat 16 1548(0)/mV 0 0 -345 3785 0 avr
+51.dat 16 3296(2)/mV 0 0 2355 13171 0 avl
+51.dat 16 2746(-4)/mV 0 0 -2010 -17506 0 avf
+51.dat 16 3417(-3)/mV 0 0 -1602 -12272 0 v1
+51.dat 16 3122(-5)/mV 0 0 -952 -23663 0 v2
+51.dat 16 3639(0)/mV 0 0 -855 437 0 v3
+51.dat 16 4221(-9)/mV 0 0 -585 22010 0 v4
+51.dat 16 6249(-4)/mV 0 0 -112 -15231 0 v5
+51.dat 16 4439(-5)/mV 0 0 170 -22369 0 v6
+#<age>: 75
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: left axis deviation. 
+#Left anterior hemiblock. 
+#Complete left bundle branch block. 
+#Right ventricular hypertrophy. 

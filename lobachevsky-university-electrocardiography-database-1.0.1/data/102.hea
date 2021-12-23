@@ -1,0 +1,21 @@
+102 12 500 5000
+102.dat 16 1245(-17)/mV 0 0 40 -17824 0 i
+102.dat 16 2055(-19)/mV 0 0 -100 -24875 0 ii
+102.dat 16 1040(-2)/mV 0 0 -140 -7051 0 iii
+102.dat 16 1585(17)/mV 0 0 30 21594 0 avr
+102.dat 16 720(-8)/mV 0 0 90 28259 0 avl
+102.dat 16 1502(-10)/mV 0 0 -120 17498 0 avf
+102.dat 16 1065(-7)/mV 0 0 0 -30804 0 v1
+102.dat 16 1125(-15)/mV 0 0 0 -7634 0 v2
+102.dat 16 1455(-14)/mV 0 0 80 -811 0 v3
+102.dat 16 2155(-19)/mV 0 0 20 -26186 0 v4
+102.dat 16 2445(-25)/mV 0 0 -40 9574 0 v5
+102.dat 16 3980(-4)/mV 0 0 -1880 -17059 0 v6
+#<age>: 62
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Incomplete right bundle branch block. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

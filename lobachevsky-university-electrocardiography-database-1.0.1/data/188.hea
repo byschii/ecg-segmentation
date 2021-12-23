@@ -1,0 +1,19 @@
+188 12 500 5000
+188.dat 16 817(-1)/mV 0 0 -45 -4851 0 i
+188.dat 16 1552(-2)/mV 0 0 450 -6376 0 ii
+188.dat 16 1240(-1)/mV 0 0 495 -1525 0 iii
+188.dat 16 1088(1)/mV 0 0 -202 5422 0 avr
+188.dat 16 848(-1)/mV 0 0 -270 -1703 0 avl
+188.dat 16 1276(-1)/mV 0 0 472 -4227 0 avf
+188.dat 16 1294(1)/mV 0 0 -305 5623 0 v1
+188.dat 16 3074(0)/mV 0 0 5 2290 0 v2
+188.dat 16 3105(-1)/mV 0 0 -280 -3358 0 v3
+188.dat 16 2801(-1)/mV 0 0 -180 -1297 0 v4
+188.dat 16 1947(-1)/mV 0 0 -175 -2617 0 v5
+188.dat 16 1582(0)/mV 0 0 -222 1896 0 v6
+#<age>: 17
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus tachycardia.
+#Electric axis of the heart: horizontal. 
+#Right atrial overload. 

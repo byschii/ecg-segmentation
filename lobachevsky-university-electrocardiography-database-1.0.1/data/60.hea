@@ -1,0 +1,25 @@
+60 12 500 5000
+60.dat 16 924(0)/mV 0 0 -18 1780 0 i
+60.dat 16 769(-1)/mV 0 0 37 -2485 0 ii
+60.dat 16 1392(-1)/mV 0 0 55 -4265 0 iii
+60.dat 16 524(-1)/mV 0 0 -9 -310 0 avr
+60.dat 16 1145(0)/mV 0 0 -36 2924 0 avl
+60.dat 16 989(-1)/mV 0 0 46 -4077 0 avf
+60.dat 16 650(1)/mV 0 0 85 9752 0 v1
+60.dat 16 1135(2)/mV 0 0 20 14628 0 v2
+60.dat 16 1920(3)/mV 0 0 17 18997 0 v3
+60.dat 16 2917(3)/mV 0 0 -60 18974 0 v4
+60.dat 16 2217(6)/mV 0 0 10 30887 0 v5
+60.dat 16 1527(2)/mV 0 0 -150 12203 0 v6
+#<age>: 79
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Incomplete right bundle branch block. 
+#Left anterior hemiblock. 
+#Atrial extrasystole: undefined. 
+#Atrial extrasystole: left atrial. 
+#Atrial extrasystole, type: single PAC. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: inferior wall. 

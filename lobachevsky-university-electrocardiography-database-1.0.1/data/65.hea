@@ -1,0 +1,20 @@
+65 12 500 5000
+65.dat 16 1046(-1)/mV 0 0 20 -2064 0 i
+65.dat 16 464(-2)/mV 0 0 -2 -5576 0 ii
+65.dat 16 829(-1)/mV 0 0 -22 -3512 0 iii
+65.dat 16 697(0)/mV 0 0 -9 3436 0 avr
+65.dat 16 938(0)/mV 0 0 21 701 0 avl
+65.dat 16 432(-2)/mV 0 0 -12 -5045 0 avf
+65.dat 16 417(1)/mV 0 0 77 9899 0 v1
+65.dat 16 1497(-1)/mV 0 0 -55 -2004 0 v2
+65.dat 16 1746(0)/mV 0 0 -30 4656 0 v3
+65.dat 16 1479(0)/mV 0 0 10 3530 0 v4
+65.dat 16 930(1)/mV 0 0 5 8598 0 v5
+65.dat 16 714(-1)/mV 0 0 -22 -3129 0 v6
+#<age>: 68
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left anterior hemiblock. 
+#Left atrial hypertrophy. 

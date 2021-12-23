@@ -1,0 +1,19 @@
+122 12 500 5000
+122.dat 16 1095(-11)/mV 0 0 840 12037 0 i
+122.dat 16 2412(-11)/mV 0 0 1040 14113 0 ii
+122.dat 16 2393(0)/mV 0 0 200 2076 0 iii
+122.dat 16 1234(10)/mV 0 0 -940 -12781 0 avr
+122.dat 16 1517(-6)/mV 0 0 320 -26736 0 avl
+122.dat 16 2392(-5)/mV 0 0 620 -23682 0 avf
+122.dat 16 3932(16)/mV 0 0 60 19340 0 v1
+122.dat 16 3454(-7)/mV 0 0 -480 -31398 0 v2
+122.dat 16 3691(8)/mV 0 0 800 -21619 0 v3
+122.dat 16 2687(-3)/mV 0 0 1640 -13318 0 v4
+122.dat 16 2666(0)/mV 0 0 1880 3238 0 v5
+122.dat 16 2600(-4)/mV 0 0 1400 -15499 0 v6
+#<age>: 25
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: vertical. 
+#Incomplete left bundle branch block. 

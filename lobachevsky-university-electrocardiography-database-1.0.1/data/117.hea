@@ -1,0 +1,19 @@
+117 12 500 5000
+117.dat 16 740(-18)/mV 0 0 100 -20947 0 i
+117.dat 16 1645(-21)/mV 0 0 -80 27860 0 ii
+117.dat 16 1550(-4)/mV 0 0 -180 -16729 0 iii
+117.dat 16 965(19)/mV 0 0 -10 29858 0 avr
+117.dat 16 810(-7)/mV 0 0 140 31644 0 avl
+117.dat 16 1582(-12)/mV 0 0 -130 6542 0 avf
+117.dat 16 1635(-4)/mV 0 0 120 -17222 0 v1
+117.dat 16 3145(-9)/mV 0 0 180 23513 0 v2
+117.dat 16 2445(-17)/mV 0 0 420 -16563 0 v3
+117.dat 16 1950(-20)/mV 0 0 280 -31202 0 v4
+117.dat 16 1295(-17)/mV 0 0 220 -15484 0 v5
+117.dat 16 1145(-12)/mV 0 0 -260 7283 0 v6
+#<age>: 23
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus tachycardia.
+#Electric axis of the heart: vertical. 
+#Incomplete right bundle branch block. 

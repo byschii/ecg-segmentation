@@ -1,0 +1,19 @@
+153 12 500 5000
+153.dat 16 1260(1)/mV 0 0 35 8848 0 i
+153.dat 16 1871(0)/mV 0 0 -60 4957 0 ii
+153.dat 16 1076(-1)/mV 0 0 -95 -3891 0 iii
+153.dat 16 1498(-2)/mV 0 0 12 -7312 0 avr
+153.dat 16 512(1)/mV 0 0 65 6131 0 avl
+153.dat 16 1452(0)/mV 0 0 -77 45 0 avf
+153.dat 16 2007(-1)/mV 0 0 -137 -1981 0 v1
+153.dat 16 2562(1)/mV 0 0 -120 5409 0 v2
+153.dat 16 2006(1)/mV 0 0 -240 5632 0 v3
+153.dat 16 2647(-2)/mV 0 0 -240 -7864 0 v4
+153.dat 16 2272(1)/mV 0 0 -202 5006 0 v5
+153.dat 16 1807(1)/mV 0 0 -47 9878 0 v6
+#<age>: 27
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Non-specific repolarization abnormalities: inferior wall. 

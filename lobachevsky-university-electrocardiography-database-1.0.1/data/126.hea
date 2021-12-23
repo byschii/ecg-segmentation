@@ -1,0 +1,24 @@
+126 12 500 5000
+126.dat 16 1254(-21)/mV 0 0 -40 29820 0 i
+126.dat 16 4075(-13)/mV 0 0 140 878 0 ii
+126.dat 16 3521(7)/mV 0 0 180 -28942 0 iii
+126.dat 16 2609(16)/mV 0 0 -50 16654 0 avr
+126.dat 16 1729(-14)/mV 0 0 -110 -3057 0 avl
+126.dat 16 3597(-3)/mV 0 0 160 -14405 0 avf
+126.dat 16 1585(-16)/mV 0 0 -260 -10042 0 v1
+126.dat 16 1542(-28)/mV 0 0 -440 -8751 0 v2
+126.dat 16 2114(-25)/mV 0 0 -180 6123 0 v3
+126.dat 16 3305(-13)/mV 0 0 300 2814 0 v4
+126.dat 16 3260(-16)/mV 0 0 120 -12965 0 v5
+126.dat 16 2200(-16)/mV 0 0 40 -12426 0 v6
+#<age>: 70
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Incomplete right bundle branch block. 
+#Left anterior hemiblock. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Left ventricular overload. 
+#Non-specific repolarization abnormalities: lateral wall. 

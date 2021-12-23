@@ -1,0 +1,19 @@
+191 12 500 5000
+191.dat 16 922(2)/mV 0 0 -195 14332 0 i
+191.dat 16 2170(1)/mV 0 0 -70 5276 0 ii
+191.dat 16 1514(-2)/mV 0 0 125 -9056 0 iii
+191.dat 16 1509(-2)/mV 0 0 132 -9929 0 avr
+191.dat 16 691(2)/mV 0 0 -160 11516 0 avl
+191.dat 16 1774(-1)/mV 0 0 27 -1961 0 avf
+191.dat 16 2999(3)/mV 0 0 7 15363 0 v1
+191.dat 16 2952(1)/mV 0 0 580 5439 0 v2
+191.dat 16 1637(0)/mV 0 0 102 2680 0 v3
+191.dat 16 2525(-1)/mV 0 0 152 -596 0 v4
+191.dat 16 2097(-1)/mV 0 0 75 -1779 0 v5
+191.dat 16 1939(1)/mV 0 0 -260 7554 0 v6
+#<age>: 24
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Early repolarization syndrome. 

@@ -1,0 +1,24 @@
+106 12 500 5000
+106.dat 16 1397(-21)/mV 0 0 40 28637 0 i
+106.dat 16 1619(-20)/mV 0 0 120 -32302 0 ii
+106.dat 16 987(0)/mV 0 0 80 4597 0 iii
+106.dat 16 1439(19)/mV 0 0 -80 -31150 0 avr
+106.dat 16 948(-11)/mV 0 0 -20 12596 0 avl
+106.dat 16 1120(-10)/mV 0 0 100 19204 0 avf
+106.dat 16 2136(-1)/mV 0 0 -260 -3854 0 v1
+106.dat 16 2320(-6)/mV 0 0 -180 -27937 0 v2
+106.dat 16 2300(-10)/mV 0 0 40 17027 0 v3
+106.dat 16 2505(-12)/mV 0 0 -140 9102 0 v4
+106.dat 16 2400(-16)/mV 0 0 -80 -11002 0 v5
+106.dat 16 2259(-16)/mV 0 0 140 -11326 0 v6
+#<age>: 64
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Ventricular extrasystole, localisation: RVOT, antero-septal part. 
+#Ventricular extrasystole, type: single PVC. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Scar formation: posterior wall. 
+#Non-specific repolarization abnormalities: lateral wall. 

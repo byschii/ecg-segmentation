@@ -1,0 +1,24 @@
+78 12 500 5000
+78.dat 16 1160(-12)/mV 0 0 80 7228 0 i
+78.dat 16 1285(-6)/mV 0 0 140 -25657 0 ii
+78.dat 16 635(6)/mV 0 0 60 32651 0 iii
+78.dat 16 1223(8)/mV 0 0 -110 -23578 0 avr
+78.dat 16 702(-9)/mV 0 0 10 20653 0 avl
+78.dat 16 769(0)/mV 0 0 100 4062 0 avf
+78.dat 16 970(-8)/mV 0 0 40 27329 0 v1
+78.dat 16 1060(-15)/mV 0 0 -280 -7277 0 v2
+78.dat 16 1595(-7)/mV 0 0 -80 31244 0 v3
+78.dat 16 1715(-6)/mV 0 0 -140 -28797 0 v4
+78.dat 16 1900(-12)/mV 0 0 -140 10491 0 v5
+78.dat 16 1575(-12)/mV 0 0 -100 9736 0 v6
+#<age>: 81
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#I degree AV block. 
+#Incomplete right bundle branch block. 
+#Atrial extrasystole: SA-nodal extrasystole. 
+#Atrial extrasystole, type: single PAC. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

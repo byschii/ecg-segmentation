@@ -1,0 +1,19 @@
+156 12 500 5000
+156.dat 16 1071(1)/mV 0 0 -20 9450 0 i
+156.dat 16 1954(1)/mV 0 0 -422 5347 0 ii
+156.dat 16 1222(-1)/mV 0 0 -402 -4103 0 iii
+156.dat 16 1411(-2)/mV 0 0 221 -7715 0 avr
+156.dat 16 842(1)/mV 0 0 191 6596 0 avl
+156.dat 16 1530(-1)/mV 0 0 -412 -47 0 avf
+156.dat 16 1986(-1)/mV 0 0 407 -1118 0 v1
+156.dat 16 1554(-2)/mV 0 0 177 -5268 0 v2
+156.dat 16 1819(1)/mV 0 0 90 6369 0 v3
+156.dat 16 3139(-1)/mV 0 0 755 -838 0 v4
+156.dat 16 2366(1)/mV 0 0 322 6394 0 v5
+156.dat 16 2147(-1)/mV 0 0 497 -271 0 v6
+#<age>: 22
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus arrhythmia.
+#Electric axis of the heart: normal. 
+#Incomplete right bundle branch block. 

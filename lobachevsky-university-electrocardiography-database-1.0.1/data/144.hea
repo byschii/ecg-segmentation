@@ -1,0 +1,19 @@
+144 12 500 5000
+144.dat 16 1338(0)/mV 0 0 -85 2371 0 i
+144.dat 16 1399(0)/mV 0 0 -65 4038 0 ii
+144.dat 16 769(0)/mV 0 0 20 1667 0 iii
+144.dat 16 1331(-1)/mV 0 0 75 -3443 0 avr
+144.dat 16 802(0)/mV 0 0 -53 269 0 avl
+144.dat 16 971(0)/mV 0 0 -23 2634 0 avf
+144.dat 16 2932(0)/mV 0 0 142 1654 0 v1
+144.dat 16 2737(-1)/mV 0 0 80 -3990 0 v2
+144.dat 16 1082(-1)/mV 0 0 -107 -3061 0 v3
+144.dat 16 2246(-1)/mV 0 0 125 -282 0 v4
+144.dat 16 1954(1)/mV 0 0 -240 6132 0 v5
+144.dat 16 2087(0)/mV 0 0 -172 3683 0 v6
+#<age>: 19
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Non-specific repolarization abnormalities: inferior wall. 

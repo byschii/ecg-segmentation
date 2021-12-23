@@ -1,0 +1,23 @@
+21 12 500 5000
+21.dat 16 970(-1)/mV 0 0 -62 -1105 0 i
+21.dat 16 1159(0)/mV 0 0 -22 599 0 ii
+21.dat 16 1670(0)/mV 0 0 40 1704 0 iii
+21.dat 16 605(-1)/mV 0 0 42 -485 0 avr
+21.dat 16 1206(-1)/mV 0 0 -51 -1976 0 avl
+21.dat 16 1410(0)/mV 0 0 9 335 0 avf
+21.dat 16 1884(1)/mV 0 0 92 6683 0 v1
+21.dat 16 2194(-2)/mV 0 0 -30 -6747 0 v2
+21.dat 16 2147(0)/mV 0 0 37 3992 0 v3
+21.dat 16 1357(-2)/mV 0 0 -182 -8788 0 v4
+21.dat 16 619(2)/mV 0 0 -95 10116 0 v5
+21.dat 16 757(-3)/mV 0 0 -342 -10450 0 v6
+#<age>: 55
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left anterior hemiblock. 
+#STEMI: anterior wall. 
+#STEMI: lateral wall. 
+#STEMI: septal. 
+#STEMI: apical. 

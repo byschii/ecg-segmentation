@@ -1,0 +1,136 @@
+This database is described in the work:
+A. I. Kalyakulina et al., "LUDB: A New Open-Access Validation Tool for Electrocardiogram Delineation Algorithms," in IEEE Access, vol. 8, pp. 186181-186190, 2020, doi: 10.1109/ACCESS.2020.3029211
+
+Lobachevsky University Database (LUDB) contains 200 records from 200 subjects. ECG signal records were received in the Cyberheart project with the support of the Ministry of Education of the Russian Federation at the Institute of Information Technology, Mathematics and Mechanics, Nizhny Novgorod Lobachevsky State University. Manual annotation of ECG signal complexes and diagnostics were performed by doctors of medical organizations in Nizhny Novgorod.
+
+The ECG recordings were taken with the Schiller Cardiovit AT-101 cardiograph, with standard 12 leads (i, ii, iii, avr, avl, avf, v1, v2, v3, v4, v5, v6) and a duration of 10 seconds. The sampling frequency of the signals is 500 samples per second. For each ECG signal, the boundaries and peaks of the QRS, P, and T waves were manually determined by cardiologists. In total, the base contains 58429 waves (21966 QRS, 19666 T, 16797 P), if we consider all leads independently.
+
+ECGs were collected from healthy volunteers and patients with various cardiovascular diseases, some patients have pacemakers. The age of the subjects is 11 to 90 years, the average age is 52 years. Gender distribution: 85 women and 115 men. 
+
+The first two tables represent the type of rhythm and electrical axis of the heart. This information is provided for all records in the database.
+
+Rhythm: Number of subjects:
+Sinus rhythm 143
+Sinus tachycardia 4
+Sinus bradycardia 25
+Sinus arrhythmia 8
+Irregular sinus rhythm 2
+Atrial fibrillation 15
+Atrial flutter, typical 3
+Total 200
+
+Electric axis of the heart: Number of subjects:
+Normal 75
+Left axis deviation 66
+Vertical 26
+Horizontal 20
+Right axis deviation 3
+None (pacemaker) 10
+Total 200
+
+The following table shows the main cardiovascular disorders and their number in the database. There are overlaps, as some patients may have several ones.
+
+Conduction abnormalities: Number of subjects:
+Sinoatrial blockade, undefined 1
+I degree AV block 10
+III degree AV-block 5
+Incomplete right bundle branch block 29
+Incomplete left bundle branch block 6
+Left anterior hemiblock 16
+Complete right bundle branch block 4
+Complete left bundle branch block 4
+Non-specific intravintricular conduction delay 4
+
+Extrasystole: Number of subjects:
+Atrial extrasystole: undefined 2
+Atrial extrasystole: low atrial 1
+Atrial extrasystole: left atrial 2
+Atrial extrasystole: SA-nodal extrasystole 3
+Atrial extrasystole, type: single PAC 4
+Atrial extrasystole, type: bigemini 1
+Atrial extrasystole, type: quadrigemini 1
+Atrial extrasystole, type: allorhythmic pattern 1
+Ventricular extrasystole, morphology: polymorphic 2
+Ventricular extrasystole, localisation: RVOT, anterior wall 3
+Ventricular extrasystole, localisation: RVOT, antero-septal part 1
+Ventricular extrasystole, localisation: IVS, middle part 1
+Ventricular extrasystole, localisation: LVOT, LVS 2
+Ventricular extrasystole, localisation: LV, undefined 1
+Ventricular extrasystole, type: single PVC 6
+Ventricular extrasystole, type: intercalary PVC 2
+Ventricular extrasystole, type: couplet 2
+
+Hypertrophy: Number of subjects:
+Right atrial hypertrophy 1
+Left atrial hypertrophy 102
+Right atrial overload 17
+Left atrial overload 11
+Left ventricular hypertrophy 108
+Right ventricular hypertrophy 3
+Left ventricular overload 11
+
+Ischemia: Number of subjects:
+STEMI: anterior wall 8
+STEMI: lateral wall 7
+STEMI: septal 8
+STEMI: inferior wall 1
+STEMI: apical 5
+Ischemia: anterior wall 5
+Ischemia: lateral wall 8
+Ischemia: septal 4
+Ischemia: inferior wall 10
+Ischemia: posterior wall 2
+Ischemia: apical 6
+Scar formation: lateral wall 3
+Scar formation: septal 9
+Scar formation: inferior wall 3
+Scar formation: posterior wall 6
+Scar formation: apical 5
+Undefined ischemia/scar/supp.NSTEMI: anterior wall 12
+Undefined ischemia/scar/supp.NSTEMI: lateral wall 16
+Undefined ischemia/scar/supp.NSTEMI: septal 5
+Undefined ischemia/scar/supp.NSTEMI: inferior wall 3
+Undefined ischemia/scar/supp.NSTEMI: posterior wall 4
+Undefined ischemia/scar/supp.NSTEMI: apical 11
+
+Non-specific repolarisation abnormalities: Number of subjects:
+Anterior wall 18
+Lateral wall 13
+Septal 15
+Inferior wall 19
+Posterior wall 9
+Apical 11
+
+Other states: Number of subjects:
+Early repolarization syndrome 9
+
+Cardiac pacing: Number of subjects:
+UNIpolar atrial pacing 1
+UNIpolar ventricular pacing 6
+BIpolar ventricular pacing 2
+Biventricular pacing 1
+P-synchrony 2
+
+Database was obtain by:
+Alena Kalyakulina, Institute of Information Technologies, Mathematics and Mechanics, Lobachevsky State University, Nizhniy Novgorod, Russia. e-mail: kalyakulina.alena@gmail.com
+Igor Yusipov, Institute of Information Technologies, Mathematics and Mechanics, Lobachevsky State University, Nizhniy Novgorod, Russia. e-mail: yusipov.igor@gmail.com
+Victor Moskalenko, Institute of Information Technologies, Mathematics and Mechanics, Lobachevsky State University, Nizhniy Novgorod, Russia.
+Alexander Nikolskiy, Department of Cardiovascular Surgery, City Clinical Hospital No 5, Nizhniy Novgorod, Russia. 
+Artem Kozlov, Department of Anaesthesiology and Reanimation, Semashko Regional Clinical Hospital, Nizhniy Novgorod, Russia.
+
+Each of the 200 records consists of a (text) header file, a (binary) signal file, and 12 (binary) annotation files, identified by a suffix:
+
+.hea	header file, describing signal file contents, format and subject info (age, sex, diagnosis)
+.dat	signal file
+.i	manually determined boundaries and peaks on lead i
+.ii	manually determined boundaries and peaks on lead ii
+.iii	manually determined boundaries and peaks on lead iii
+.avr	manually determined boundaries and peaks on lead avr
+.avl	manually determined boundaries and peaks on lead avl
+.avf	manually determined boundaries and peaks on lead avf
+.v1	manually determined boundaries and peaks on lead v1
+.v2	manually determined boundaries and peaks on lead v2
+.v3	manually determined boundaries and peaks on lead v3
+.v4	manually determined boundaries and peaks on lead v4
+.v5	manually determined boundaries and peaks on lead v5
+.v6	manually determined boundaries and peaks on lead v6

@@ -1,0 +1,20 @@
+96 12 500 5000
+96.dat 16 1093(-18)/mV 0 0 120 -22983 0 i
+96.dat 16 1125(-17)/mV 0 0 80 -18873 0 ii
+96.dat 16 800(0)/mV 0 0 -40 4110 0 iii
+96.dat 16 979(17)/mV 0 0 -100 20927 0 avr
+96.dat 16 812(-10)/mV 0 0 80 20126 0 avl
+96.dat 16 902(-8)/mV 0 0 20 25865 0 avf
+96.dat 16 2250(-1)/mV 0 0 400 -471 0 v1
+96.dat 16 3320(-1)/mV 0 0 220 -2512 0 v2
+96.dat 16 3640(3)/mV 0 0 340 17911 0 v3
+96.dat 16 2320(-6)/mV 0 0 300 -26929 0 v4
+96.dat 16 1865(-19)/mV 0 0 -60 -28117 0 v5
+96.dat 16 1895(-19)/mV 0 0 40 -29241 0 v6
+#<age>: 60
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: normal. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: inferior wall. 

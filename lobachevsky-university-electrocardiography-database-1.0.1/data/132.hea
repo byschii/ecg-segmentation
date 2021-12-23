@@ -1,0 +1,24 @@
+132 12 500 5000
+132.dat 16 1760(-20)/mV 0 0 -80 -30547 0 i
+132.dat 16 1638(-18)/mV 0 0 -80 -22347 0 ii
+132.dat 16 2130(1)/mV 0 0 0 8200 0 iii
+132.dat 16 1515(18)/mV 0 0 80 26503 0 avr
+132.dat 16 1722(-11)/mV 0 0 -40 14568 0 avl
+132.dat 16 1561(-8)/mV 0 0 -40 26641 0 avf
+132.dat 16 2105(-7)/mV 0 0 40 30818 0 v1
+132.dat 16 3635(-15)/mV 0 0 60 -8774 0 v2
+132.dat 16 3290(-22)/mV 0 0 -60 23026 0 v3
+132.dat 16 2905(-19)/mV 0 0 -140 -26218 0 v4
+132.dat 16 2790(-18)/mV 0 0 -420 -21955 0 v5
+132.dat 16 2210(-19)/mV 0 0 -40 -25543 0 v6
+#<age>: 71
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Irregular sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Atrial extrasystole: SA-nodal extrasystole. 
+#Atrial extrasystole, type: bigemini. 
+#Atrial extrasystole, type: allorhythmic pattern. 
+#Right atrial overload. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: septal. 

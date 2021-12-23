@@ -1,0 +1,22 @@
+110 12 500 5000
+110.dat 16 1328(-4)/mV 0 0 -60 -19255 0 i
+110.dat 16 2199(-9)/mV 0 0 40 21094 0 ii
+110.dat 16 3096(-6)/mV 0 0 100 -25187 0 iii
+110.dat 16 818(6)/mV 0 0 10 32012 0 avr
+110.dat 16 2008(0)/mV 0 0 -80 3650 0 avl
+110.dat 16 2644(-7)/mV 0 0 70 30742 0 avf
+110.dat 16 959(-11)/mV 0 0 40 14348 0 v1
+110.dat 16 3183(-5)/mV 0 0 60 -20564 0 v2
+110.dat 16 3420(-6)/mV 0 0 -60 -25159 0 v3
+110.dat 16 3040(-7)/mV 0 0 100 -32594 0 v4
+110.dat 16 2400(-14)/mV 0 0 -60 -1538 0 v5
+110.dat 16 2179(-16)/mV 0 0 -60 -13725 0 v6
+#<age>: 62
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: left axis deviation. 
+#Ventricular extrasystole, localisation: LVOT, LVS. 
+#Ventricular extrasystole, type: single PVC. 
+#Scar formation: lateral wall. 
+#Scar formation: apical. 

@@ -1,0 +1,19 @@
+159 12 500 5000
+159.dat 16 637(-2)/mV 0 0 -60 -9296 0 i
+159.dat 16 2079(-2)/mV 0 0 107 -5534 0 ii
+159.dat 16 1649(0)/mV 0 0 167 3762 0 iii
+159.dat 16 1258(1)/mV 0 0 -23 6954 0 avr
+159.dat 16 741(-2)/mV 0 0 -113 -6852 0 avl
+159.dat 16 1861(-1)/mV 0 0 137 -1416 0 avf
+159.dat 16 2436(1)/mV 0 0 112 8391 0 v1
+159.dat 16 3791(0)/mV 0 0 100 1336 0 v2
+159.dat 16 4769(-1)/mV 0 0 -192 -2495 0 v3
+159.dat 16 3562(-1)/mV 0 0 -305 -1167 0 v4
+159.dat 16 2184(-2)/mV 0 0 137 -6841 0 v5
+159.dat 16 1456(-1)/mV 0 0 27 -3022 0 v6
+#<age>: 23
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Early repolarization syndrome. 

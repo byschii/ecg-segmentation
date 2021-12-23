@@ -1,0 +1,27 @@
+64 12 500 5000
+64.dat 16 792(-2)/mV 0 0 13 -7249 0 i
+64.dat 16 677(-1)/mV 0 0 -77 -3529 0 ii
+64.dat 16 730(0)/mV 0 0 -90 3720 0 iii
+64.dat 16 653(0)/mV 0 0 32 4981 0 avr
+64.dat 16 700(-2)/mV 0 0 51 -5975 0 avl
+64.dat 16 511(-1)/mV 0 0 -83 -269 0 avf
+64.dat 16 875(1)/mV 0 0 90 5991 0 v1
+64.dat 16 1329(-1)/mV 0 0 82 -4321 0 v2
+64.dat 16 1387(-2)/mV 0 0 45 -6943 0 v3
+64.dat 16 2337(-5)/mV 0 0 -180 -23464 0 v4
+64.dat 16 1854(0)/mV 0 0 45 4204 0 v5
+64.dat 16 4265(-17)/mV 0 0 -792 -18091 0 v6
+#<age>: 67
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: horizontal. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#STEMI: anterior wall. 
+#STEMI: lateral wall. 
+#STEMI: septal. 
+#STEMI: inferior wall. 
+#Scar formation: anterior wall. 
+#Scar formation: lateral wall. 
+#Scar formation: septal. 

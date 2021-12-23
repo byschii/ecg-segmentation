@@ -1,0 +1,20 @@
+140 12 500 5000
+140.dat 16 897(-1)/mV 0 0 218 -120 0 i
+140.dat 16 2014(-1)/mV 0 0 305 -3716 0 ii
+140.dat 16 1357(-1)/mV 0 0 87 -3596 0 iii
+140.dat 16 1373(0)/mV 0 0 -261 1621 0 avr
+140.dat 16 639(0)/mV 0 0 66 1435 0 avl
+140.dat 16 1665(-1)/mV 0 0 196 -3857 0 avf
+140.dat 16 2489(-2)/mV 0 0 -27 -6795 0 v1
+140.dat 16 2709(-1)/mV 0 0 242 -4481 0 v2
+140.dat 16 3467(0)/mV 0 0 7 4432 0 v3
+140.dat 16 3490(-2)/mV 0 0 307 -9615 0 v4
+140.dat 16 2674(-1)/mV 0 0 0 -2330 0 v5
+140.dat 16 1826(1)/mV 0 0 82 5044 0 v6
+#<age>: 19
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Wandering atrial pacemaker. 
+#Electric axis of the heart: normal. 
+#Early repolarization syndrome. 

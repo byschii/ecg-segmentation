@@ -1,0 +1,20 @@
+94 12 500 5000
+94.dat 16 1175(-20)/mV 0 0 -100 -31735 0 i
+94.dat 16 1775(-20)/mV 0 0 -120 31568 0 ii
+94.dat 16 835(-1)/mV 0 0 -20 -2233 0 iii
+94.dat 16 1420(19)/mV 0 0 110 -32428 0 avr
+94.dat 16 539(-10)/mV 0 0 -40 18825 0 avl
+94.dat 16 1300(-11)/mV 0 0 -70 15343 0 avf
+94.dat 16 1060(-8)/mV 0 0 80 26205 0 v1
+94.dat 16 1855(-17)/mV 0 0 -80 -16424 0 v2
+94.dat 16 2565(-20)/mV 0 0 -240 -30345 0 v3
+94.dat 16 2560(-20)/mV 0 0 -120 -31970 0 v4
+94.dat 16 2265(-21)/mV 0 0 -120 28303 0 v5
+94.dat 16 1825(-16)/mV 0 0 -280 -10538 0 v6
+#<age>: 41
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Left atrial hypertrophy. 
+#Non-specific repolarization abnormalities: inferior wall. 

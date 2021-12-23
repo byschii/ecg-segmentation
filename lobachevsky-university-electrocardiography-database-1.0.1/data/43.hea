@@ -1,0 +1,21 @@
+43 12 500 5000
+43.dat 16 1140(-7)/mV 0 0 60 -32503 0 i
+43.dat 16 1405(-16)/mV 0 0 60 -10815 0 ii
+43.dat 16 675(-9)/mV 0 0 0 21688 0 iii
+43.dat 16 1208(10)/mV 0 0 -60 -11080 0 avr
+43.dat 16 808(1)/mV 0 0 30 6527 0 avl
+43.dat 16 902(-12)/mV 0 0 30 6140 0 avf
+43.dat 16 1045(-4)/mV 0 0 -140 -15148 0 v1
+43.dat 16 1370(3)/mV 0 0 -140 16593 0 v2
+43.dat 16 1770(-10)/mV 0 0 -280 16485 0 v3
+43.dat 16 2075(-11)/mV 0 0 -280 12095 0 v4
+43.dat 16 2040(-15)/mV 0 0 -220 -9361 0 v5
+43.dat 16 1830(-18)/mV 0 0 -220 -22775 0 v6
+#<age>: 69
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: horizontal. 
+#Incomplete right bundle branch block. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

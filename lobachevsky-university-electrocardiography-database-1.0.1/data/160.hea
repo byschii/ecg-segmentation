@@ -1,0 +1,19 @@
+160 12 500 5000
+160.dat 16 1159(2)/mV 0 0 25 12595 0 i
+160.dat 16 1754(0)/mV 0 0 -85 2289 0 ii
+160.dat 16 1566(-3)/mV 0 0 -110 -10306 0 iii
+160.dat 16 1309(-2)/mV 0 0 30 -7829 0 avr
+160.dat 16 950(2)/mV 0 0 67 10976 0 avl
+160.dat 16 1556(-1)/mV 0 0 -97 -4352 0 avf
+160.dat 16 2011(0)/mV 0 0 -65 447 0 v1
+160.dat 16 3896(-1)/mV 0 0 -182 -3613 0 v2
+160.dat 16 2428(0)/mV 0 0 -67 2320 0 v3
+160.dat 16 4192(2)/mV 0 0 15 11096 0 v4
+160.dat 16 3782(-1)/mV 0 0 252 -4186 0 v5
+160.dat 16 2496(0)/mV 0 0 197 1656 0 v6
+#<age>: 20
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: vertical. 
+#Early repolarization syndrome. 

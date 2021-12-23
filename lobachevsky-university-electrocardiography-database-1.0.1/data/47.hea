@@ -1,0 +1,20 @@
+47 12 500 5000
+47.dat 16 913(-2)/mV 0 0 15 -6449 0 i
+47.dat 16 1497(-2)/mV 0 0 -77 -7056 0 ii
+47.dat 16 859(-1)/mV 0 0 -92 -607 0 iii
+47.dat 16 1125(1)/mV 0 0 31 6062 0 avr
+47.dat 16 418(-1)/mV 0 0 53 -3597 0 avl
+47.dat 16 1162(-1)/mV 0 0 -84 -4466 0 avf
+47.dat 16 1201(1)/mV 0 0 117 8914 0 v1
+47.dat 16 1137(-1)/mV 0 0 -22 -2239 0 v2
+47.dat 16 1521(0)/mV 0 0 -32 307 0 v3
+47.dat 16 1934(-1)/mV 0 0 -57 -2034 0 v4
+47.dat 16 2115(-1)/mV 0 0 -102 -3012 0 v5
+47.dat 16 1849(-1)/mV 0 0 -92 -2964 0 v6
+#<age>: 65
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: normal. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

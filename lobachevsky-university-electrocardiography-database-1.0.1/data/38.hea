@@ -1,0 +1,25 @@
+38 12 500 5000
+38.dat 16 1664(-12)/mV 0 0 -300 8301 0 i
+38.dat 16 2030(-10)/mV 0 0 180 17064 0 ii
+38.dat 16 3039(1)/mV 0 0 480 8763 0 iii
+38.dat 16 1318(10)/mV 0 0 60 -12769 0 avr
+38.dat 16 2309(-7)/mV 0 0 -390 32761 0 avl
+38.dat 16 2299(-5)/mV 0 0 330 -20131 0 avf
+38.dat 16 1470(-8)/mV 0 0 0 29312 0 v1
+38.dat 16 2355(-11)/mV 0 0 -480 12655 0 v2
+38.dat 16 2000(-9)/mV 0 0 -380 22467 0 v3
+38.dat 16 4115(-5)/mV 0 0 -200 -23667 0 v4
+38.dat 16 4115(-4)/mV 0 0 -140 -17195 0 v5
+38.dat 16 3510(-7)/mV 0 0 40 31615 0 v6
+#<age>: 59
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: left axis deviation. 
+#Ventricular extrasystole, localisation: RVOT, anterior wall. 
+#Ventricular extrasystole, type: single PVC. 
+#Ventricular extrasystole, type: intercalary PVC. 
+#Left ventricular hypertrophy. 
+#Left ventricular overload. 
+#Ischemia: lateral wall. 
+#Ischemia: apical. 

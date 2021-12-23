@@ -1,0 +1,20 @@
+186 12 500 5000
+186.dat 16 710(-2)/mV 0 0 5 -5310 0 i
+186.dat 16 1416(-1)/mV 0 0 25 -1454 0 ii
+186.dat 16 1086(0)/mV 0 0 20 3856 0 iii
+186.dat 16 1013(0)/mV 0 0 -15 3042 0 avr
+186.dat 16 522(-2)/mV 0 0 -7 -5020 0 avl
+186.dat 16 1227(0)/mV 0 0 23 1080 0 avf
+186.dat 16 1247(-2)/mV 0 0 107 -5187 0 v1
+186.dat 16 2642(-2)/mV 0 0 77 -6500 0 v2
+186.dat 16 3174(-1)/mV 0 0 -117 -3042 0 v3
+186.dat 16 2733(1)/mV 0 0 -110 6196 0 v4
+186.dat 16 2144(-2)/mV 0 0 47 -9875 0 v5
+186.dat 16 1552(0)/mV 0 0 45 126 0 v6
+#<age>: 42
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: vertical. 
+#Right atrial overload. 
+#Left atrial overload. 

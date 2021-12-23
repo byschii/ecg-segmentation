@@ -1,0 +1,20 @@
+103 12 500 5000
+103.dat 16 820(-16)/mV 0 0 -80 -14231 0 i
+103.dat 16 854(-6)/mV 0 0 -40 -27863 0 ii
+103.dat 16 613(10)/mV 0 0 40 -13632 0 iii
+103.dat 16 770(10)/mV 0 0 60 -11822 0 avr
+103.dat 16 636(-14)/mV 0 0 -60 209 0 avl
+103.dat 16 660(2)/mV 0 0 0 12201 0 avf
+103.dat 16 1155(-3)/mV 0 0 200 -13754 0 v1
+103.dat 16 2100(-3)/mV 0 0 120 -12008 0 v2
+103.dat 16 1420(1)/mV 0 0 140 7570 0 v3
+103.dat 16 1615(-4)/mV 0 0 100 -16365 0 v4
+103.dat 16 1920(-3)/mV 0 0 -60 -13426 0 v5
+103.dat 16 1915(-8)/mV 0 0 -200 26477 0 v6
+#<age>: 69
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Atrial flutter, typical.
+#Electric axis of the heart: horizontal. 
+#Non-specific intravintricular conduction delay. 
+#Left ventricular hypertrophy. 

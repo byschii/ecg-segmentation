@@ -1,0 +1,23 @@
+88 12 500 5000
+88.dat 16 1090(-12)/mV 0 0 40 6381 0 i
+88.dat 16 1180(-16)/mV 0 0 300 -12100 0 ii
+88.dat 16 1174(-4)/mV 0 0 260 -18481 0 iii
+88.dat 16 1090(13)/mV 0 0 -170 3183 0 avr
+88.dat 16 892(-4)/mV 0 0 -110 -19509 0 avl
+88.dat 16 919(-10)/mV 0 0 280 18175 0 avf
+88.dat 16 1389(-8)/mV 0 0 -100 27893 0 v1
+88.dat 16 1705(-5)/mV 0 0 -40 -22847 0 v2
+88.dat 16 1775(-9)/mV 0 0 -100 25387 0 v3
+88.dat 16 2005(-9)/mV 0 0 -240 21461 0 v4
+88.dat 16 1944(-10)/mV 0 0 -280 15964 0 v5
+88.dat 16 1819(-8)/mV 0 0 -160 29927 0 v6
+#<age>: 59
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: normal. 
+#Left ventricular hypertrophy. 
+#Non-specific repolarization abnormalities: anterior wall. 
+#Non-specific repolarization abnormalities: lateral wall. 
+#Non-specific repolarization abnormalities: septal. 
+#Non-specific repolarization abnormalities: apical. 

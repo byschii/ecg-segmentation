@@ -1,0 +1,20 @@
+178 12 500 5000
+178.dat 16 917(3)/mV 0 0 -2 15171 0 i
+178.dat 16 1156(1)/mV 0 0 15 6694 0 ii
+178.dat 16 734(-2)/mV 0 0 17 -8477 0 iii
+178.dat 16 992(-3)/mV 0 0 -6 -11327 0 avr
+178.dat 16 658(2)/mV 0 0 -9 11530 0 avl
+178.dat 16 813(-1)/mV 0 0 16 -1253 0 avf
+178.dat 16 1254(-3)/mV 0 0 32 -10747 0 v1
+178.dat 16 2787(-1)/mV 0 0 137 -3333 0 v2
+178.dat 16 3469(0)/mV 0 0 -37 1438 0 v3
+178.dat 16 2982(-1)/mV 0 0 97 -1449 0 v4
+178.dat 16 2127(-2)/mV 0 0 152 -7757 0 v5
+178.dat 16 1631(0)/mV 0 0 -122 22 0 v6
+#<age>: 44
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus arrhythmia.
+#Electric axis of the heart: normal. 
+#Right atrial overload. 
+#Left atrial overload. 

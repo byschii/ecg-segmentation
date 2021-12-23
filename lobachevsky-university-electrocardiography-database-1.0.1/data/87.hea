@@ -1,0 +1,20 @@
+87 12 500 5000
+87.dat 16 590(-22)/mV 0 0 -120 25741 0 i
+87.dat 16 2355(-20)/mV 0 0 -280 -31083 0 ii
+87.dat 16 2005(1)/mV 0 0 -160 8712 0 iii
+87.dat 16 1373(20)/mV 0 0 200 -29462 0 avr
+87.dat 16 967(-12)/mV 0 0 20 9704 0 avl
+87.dat 16 2177(-9)/mV 0 0 -220 22858 0 avf
+87.dat 16 1235(2)/mV 0 0 0 13402 0 v1
+87.dat 16 1865(-18)/mV 0 0 -200 -21519 0 v2
+87.dat 16 1460(-19)/mV 0 0 -200 -27379 0 v3
+87.dat 16 2220(-21)/mV 0 0 -200 27984 0 v4
+87.dat 16 2120(-21)/mV 0 0 -200 27756 0 v5
+87.dat 16 2015(-23)/mV 0 0 -200 18226 0 v6
+#<age>: 19
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: vertical. 
+#Left atrial overload. 
+#Non-specific repolarization abnormalities: inferior wall. 

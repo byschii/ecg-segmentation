@@ -1,0 +1,21 @@
+185 12 500 5000
+185.dat 16 1346(0)/mV 0 0 33 1516 0 i
+185.dat 16 1842(1)/mV 0 0 100 5737 0 ii
+185.dat 16 909(0)/mV 0 0 67 4221 0 iii
+185.dat 16 1585(-1)/mV 0 0 -66 -3867 0 avr
+185.dat 16 710(-1)/mV 0 0 -17 -1473 0 avl
+185.dat 16 1183(0)/mV 0 0 84 4638 0 avf
+185.dat 16 1625(0)/mV 0 0 -17 904 0 v1
+185.dat 16 3305(0)/mV 0 0 477 2009 0 v2
+185.dat 16 2102(0)/mV 0 0 575 3006 0 v3
+185.dat 16 3009(-1)/mV 0 0 250 -757 0 v4
+185.dat 16 2604(-1)/mV 0 0 -52 -1269 0 v5
+185.dat 16 2008(-1)/mV 0 0 15 -1055 0 v6
+#<age>: 19
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Incomplete right bundle branch block. 
+#Right atrial overload. 
+#Left atrial overload. 

@@ -1,0 +1,21 @@
+45 12 500 5000
+45.dat 16 2940(21)/mV 0 0 80 -25726 0 i
+45.dat 16 2168(-15)/mV 0 0 280 -5709 0 ii
+45.dat 16 3406(-36)/mV 0 0 200 20017 0 iii
+45.dat 16 1911(-4)/mV 0 0 -180 -17277 0 avr
+45.dat 16 2841(28)/mV 0 0 -60 9981 0 avl
+45.dat 16 2336(-25)/mV 0 0 240 6979 0 avf
+45.dat 16 1779(-16)/mV 0 0 260 -14346 0 v1
+45.dat 16 2068(32)/mV 0 0 -400 -31955 0 v2
+45.dat 16 2669(10)/mV 0 0 -120 -10641 0 v3
+45.dat 16 2163(1)/mV 0 0 -180 6584 0 v4
+45.dat 16 1997(-6)/mV 0 0 0 -28653 0 v5
+45.dat 16 1586(-1)/mV 0 0 20 -2687 0 v6
+#<age>: 84
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Ventricular extrasystole, localisation: RVOT, anterior wall. 
+#Ventricular extrasystole, type: single PVC. 
+#UNIpolar atrial pacing. 
+#UNIpolar ventricular pacing. 

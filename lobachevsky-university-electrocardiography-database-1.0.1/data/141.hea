@@ -1,0 +1,20 @@
+141 12 500 5000
+141.dat 16 1391(-2)/mV 0 0 -80 -8003 0 i
+141.dat 16 1164(-1)/mV 0 0 -170 -4541 0 ii
+141.dat 16 691(0)/mV 0 0 -90 3462 0 iii
+141.dat 16 1277(1)/mV 0 0 125 5993 0 avr
+141.dat 16 988(-2)/mV 0 0 5 -5806 0 avl
+141.dat 16 568(-1)/mV 0 0 -130 -1000 0 avf
+141.dat 16 1846(-1)/mV 0 0 187 -1930 0 v1
+141.dat 16 1915(-1)/mV 0 0 342 -3797 0 v2
+141.dat 16 1557(-2)/mV 0 0 102 -5393 0 v3
+141.dat 16 2232(-1)/mV 0 0 -252 -4978 0 v4
+141.dat 16 2054(-1)/mV 0 0 -20 -955 0 v5
+141.dat 16 2041(-2)/mV 0 0 -215 -7009 0 v6
+#<age>: 39
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Incomplete right bundle branch block. 
+#Right atrial overload. 

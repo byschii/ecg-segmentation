@@ -1,0 +1,23 @@
+82 12 500 5000
+82.dat 16 690(-5)/mV 0 0 -20 -22803 0 i
+82.dat 16 744(-4)/mV 0 0 -5 -17714 0 ii
+82.dat 16 799(1)/mV 0 0 15 5089 0 iii
+82.dat 16 627(4)/mV 0 0 12 20744 0 avr
+82.dat 16 588(-3)/mV 0 0 -18 -13411 0 avl
+82.dat 16 716(-2)/mV 0 0 5 -6839 0 avf
+82.dat 16 762(1)/mV 0 0 115 8208 0 v1
+82.dat 16 1674(-1)/mV 0 0 -115 -2193 0 v2
+82.dat 16 1927(1)/mV 0 0 -12 9600 0 v3
+82.dat 16 2291(1)/mV 0 0 -7 6732 0 v4
+82.dat 16 1377(-7)/mV 0 0 -72 31820 0 v5
+82.dat 16 792(-2)/mV 0 0 -200 -6750 0 v6
+#<age>: 45
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: left axis deviation. 
+#Incomplete right bundle branch block. 
+#Left anterior hemiblock. 
+#Left atrial hypertrophy. 
+#Undefined ischemia/scar/supp.NSTEMI: lateral wall. 
+#Undefined ischemia/scar/supp.NSTEMI: inferior wall. 

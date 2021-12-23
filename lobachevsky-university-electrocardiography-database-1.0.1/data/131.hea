@@ -1,0 +1,21 @@
+131 12 500 5000
+131.dat 16 1285(-17)/mV 0 0 80 -17843 0 i
+131.dat 16 985(-20)/mV 0 0 0 -30578 0 ii
+131.dat 16 1135(-3)/mV 0 0 -80 -12735 0 iii
+131.dat 16 1095(17)/mV 0 0 -40 23904 0 avr
+131.dat 16 1050(-7)/mV 0 0 80 31291 0 avl
+131.dat 16 952(-11)/mV 0 0 -40 11994 0 avf
+131.dat 16 1524(6)/mV 0 0 220 -32056 0 v1
+131.dat 16 1784(-7)/mV 0 0 340 30955 0 v2
+131.dat 16 2584(-46)/mV 0 0 -1740 -30414 0 v3
+131.dat 16 2557(-17)/mV 0 0 -860 -14736 0 v4
+131.dat 16 1990(-14)/mV 0 0 140 -849 0 v5
+131.dat 16 1825(-29)/mV 0 0 -720 -10307 0 v6
+#<age>: 69
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#I degree AV block. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

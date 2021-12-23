@@ -1,0 +1,23 @@
+107 12 500 5000
+107.dat 16 1210(-14)/mV 0 0 -60 -3203 0 i
+107.dat 16 1200(-13)/mV 0 0 -60 2474 0 ii
+107.dat 16 1200(1)/mV 0 0 0 5677 0 iii
+107.dat 16 965(13)/mV 0 0 60 64 0 avr
+107.dat 16 1123(-8)/mV 0 0 -30 28821 0 avl
+107.dat 16 1097(-6)/mV 0 0 -30 -28615 0 avf
+107.dat 16 1300(-11)/mV 0 0 -100 10590 0 v1
+107.dat 16 1534(-17)/mV 0 0 -120 -16540 0 v2
+107.dat 16 2145(-20)/mV 0 0 -100 -31338 0 v3
+107.dat 16 2745(-15)/mV 0 0 -40 -7329 0 v4
+107.dat 16 1960(-12)/mV 0 0 -200 6295 0 v5
+107.dat 16 1450(-14)/mV 0 0 60 -287 0 v6
+#<age>: 57
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#I degree AV block. 
+#Incomplete right bundle branch block. 
+#Non-specific repolarization abnormalities: anterior wall. 
+#Non-specific repolarization abnormalities: lateral wall. 
+#Non-specific repolarization abnormalities: posterior wall. 

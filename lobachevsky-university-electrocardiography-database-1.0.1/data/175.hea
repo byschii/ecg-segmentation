@@ -1,0 +1,19 @@
+175 12 500 5000
+175.dat 16 787(1)/mV 0 0 -23 5971 0 i
+175.dat 16 1417(1)/mV 0 0 2 6183 0 ii
+175.dat 16 1031(0)/mV 0 0 25 212 0 iii
+175.dat 16 1021(-2)/mV 0 0 10 -6555 0 avr
+175.dat 16 554(0)/mV 0 0 -24 2332 0 avl
+175.dat 16 1197(0)/mV 0 0 13 2952 0 avf
+175.dat 16 1412(-3)/mV 0 0 155 -10055 0 v1
+175.dat 16 2507(-1)/mV 0 0 -22 -1190 0 v2
+175.dat 16 2618(-2)/mV 0 0 65 -5291 0 v3
+175.dat 16 2117(-2)/mV 0 0 -2 -7259 0 v4
+175.dat 16 1814(0)/mV 0 0 80 2389 0 v5
+175.dat 16 1579(-1)/mV 0 0 97 -1247 0 v6
+#<age>: 24
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Sinoatrial blockade, undefined. 

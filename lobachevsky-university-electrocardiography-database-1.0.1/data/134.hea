@@ -1,0 +1,28 @@
+134 12 500 5000
+134.dat 16 985(-18)/mV 0 0 20 -23751 0 i
+134.dat 16 860(-18)/mV 0 0 40 -22979 0 ii
+134.dat 16 1324(0)/mV 0 0 20 772 0 iii
+134.dat 16 674(17)/mV 0 0 -30 23457 0 avr
+134.dat 16 1052(-9)/mV 0 0 0 21758 0 avl
+134.dat 16 1036(-9)/mV 0 0 30 22787 0 avf
+134.dat 16 1544(1)/mV 0 0 500 8842 0 v1
+134.dat 16 2900(22)/mV 0 0 1580 -20730 0 v2
+134.dat 16 2185(4)/mV 0 0 600 20444 0 v3
+134.dat 16 1560(9)/mV 0 0 540 -18133 0 v4
+134.dat 16 1120(-3)/mV 0 0 560 -10146 0 v5
+134.dat 16 1955(16)/mV 0 0 1760 19314 0 v6
+#<age>: 65
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: left axis deviation. 
+#I degree AV block. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Scar formation: septal. 
+#Scar formation: posterior wall. 
+#Scar formation: apical. 
+#Undefined ischemia/scar/supp.NSTEMI: anterior wall. 
+#Undefined ischemia/scar/supp.NSTEMI: lateral wall. 
+#Undefined ischemia/scar/supp.NSTEMI: septal. 
+#Undefined ischemia/scar/supp.NSTEMI: apical. 

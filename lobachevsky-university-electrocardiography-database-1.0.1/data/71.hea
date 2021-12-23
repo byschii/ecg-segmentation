@@ -1,0 +1,21 @@
+71 12 500 5000
+71.dat 16 1215(-8)/mV 0 0 -120 27858 0 i
+71.dat 16 1560(-8)/mV 0 0 -160 26573 0 ii
+71.dat 16 820(-1)/mV 0 0 -40 -1285 0 iii
+71.dat 16 1290(7)/mV 0 0 140 -26971 0 avr
+71.dat 16 675(-4)/mV 0 0 -40 -17712 0 avl
+71.dat 16 1110(-4)/mV 0 0 -100 -19545 0 avf
+71.dat 16 1520(-12)/mV 0 0 -100 8825 0 v1
+71.dat 16 1510(-7)/mV 0 0 -40 31624 0 v2
+71.dat 16 2160(-5)/mV 0 0 -340 -24353 0 v3
+71.dat 16 2685(-12)/mV 0 0 -180 10497 0 v4
+71.dat 16 2530(-12)/mV 0 0 -140 6995 0 v5
+71.dat 16 2300(-6)/mV 0 0 -480 -25657 0 v6
+#<age>: 32
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: normal. 
+#Right atrial overload. 
+#Left atrial overload. 
+#Non-specific repolarization abnormalities: inferior wall. 

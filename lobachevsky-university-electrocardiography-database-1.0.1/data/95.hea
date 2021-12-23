@@ -1,0 +1,23 @@
+95 12 500 5000
+95.dat 16 2760(-1)/mV 0 0 660 -1601 0 i
+95.dat 16 2365(-11)/mV 0 0 620 13772 0 ii
+95.dat 16 3980(-11)/mV 0 0 -40 15373 0 iii
+95.dat 16 1480(5)/mV 0 0 -640 26578 0 avr
+95.dat 16 3340(4)/mV 0 0 350 24684 0 avl
+95.dat 16 3049(-11)/mV 0 0 290 14706 0 avf
+95.dat 16 1960(-15)/mV 0 0 -120 -7706 0 v1
+95.dat 16 2360(-5)/mV 0 0 240 -22452 0 v2
+95.dat 16 3560(-15)/mV 0 0 420 -8488 0 v3
+95.dat 16 3510(-13)/mV 0 0 480 974 0 v4
+95.dat 16 2875(-16)/mV 0 0 680 -13128 0 v5
+95.dat 16 2270(-16)/mV 0 0 520 -10751 0 v6
+#<age>: 67
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Left ventricular hypertrophy. 
+#Ischemia: lateral wall. 
+#Ischemia: septal. 
+#Ischemia: inferior wall. 
+#Ischemia: apical. 
+#UNIpolar ventricular pacing. 

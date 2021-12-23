@@ -1,0 +1,27 @@
+83 12 500 5000
+83.dat 16 1200(-14)/mV 0 0 40 -680 0 i
+83.dat 16 1839(-4)/mV 0 0 -60 -16577 0 ii
+83.dat 16 2659(9)/mV 0 0 -100 -15897 0 iii
+83.dat 16 580(8)/mV 0 0 10 -24243 0 avr
+83.dat 16 1880(-12)/mV 0 0 70 7695 0 avl
+83.dat 16 2209(3)/mV 0 0 -80 16245 0 avf
+83.dat 16 2120(-3)/mV 0 0 -400 -10930 0 v1
+83.dat 16 3020(-2)/mV 0 0 -100 -9278 0 v2
+83.dat 16 3350(1)/mV 0 0 -80 8490 0 v3
+83.dat 16 3160(-3)/mV 0 0 -120 -11382 0 v4
+83.dat 16 2580(-7)/mV 0 0 40 -30757 0 v5
+83.dat 16 1950(-8)/mV 0 0 120 29885 0 v6
+#<age>: 62
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: left axis deviation. 
+#Left anterior hemiblock. 
+#Complete left bundle branch block. 
+#Ventricular extrasystole, morphology: polymorphic. 
+#Ventricular extrasystole, localisation: LVOT, LVS. 
+#Ventricular extrasystole, type: single PVC. 
+#Ventricular extrasystole, type: couplet. 
+#Scar formation: anterior wall. 
+#Scar formation: septal. 
+#Scar formation: posterior wall. 

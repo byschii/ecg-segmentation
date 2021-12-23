@@ -1,0 +1,20 @@
+169 12 500 5000
+169.dat 16 751(2)/mV 0 0 165 13377 0 i
+169.dat 16 1402(0)/mV 0 0 270 4754 0 ii
+169.dat 16 859(-2)/mV 0 0 105 -8623 0 iii
+169.dat 16 1022(-2)/mV 0 0 -217 -9565 0 avr
+169.dat 16 394(2)/mV 0 0 30 10439 0 avl
+169.dat 16 1091(-1)/mV 0 0 188 -2177 0 avf
+169.dat 16 1979(1)/mV 0 0 -87 5273 0 v1
+169.dat 16 2775(-1)/mV 0 0 590 -3345 0 v2
+169.dat 16 2522(-1)/mV 0 0 782 -2726 0 v3
+169.dat 16 3232(0)/mV 0 0 652 1915 0 v4
+169.dat 16 1925(0)/mV 0 0 410 4469 0 v5
+169.dat 16 1471(-1)/mV 0 0 255 -2959 0 v6
+#<age>: 44
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: normal. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

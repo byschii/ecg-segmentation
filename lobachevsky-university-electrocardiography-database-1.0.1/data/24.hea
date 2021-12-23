@@ -1,0 +1,24 @@
+24 12 500 5000
+24.dat 16 1012(3)/mV 0 0 -8 19857 0 i
+24.dat 16 1280(2)/mV 0 0 -90 12527 0 ii
+24.dat 16 930(-2)/mV 0 0 -82 -7330 0 iii
+24.dat 16 988(-4)/mV 0 0 49 -16613 0 avr
+24.dat 16 692(2)/mV 0 0 37 12958 0 avl
+24.dat 16 1086(0)/mV 0 0 -86 2504 0 avf
+24.dat 16 2834(-2)/mV 0 0 47 -7326 0 v1
+24.dat 16 2867(0)/mV 0 0 292 1735 0 v2
+24.dat 16 2817(-3)/mV 0 0 140 -11752 0 v3
+24.dat 16 1715(2)/mV 0 0 250 12707 0 v4
+24.dat 16 2102(5)/mV 0 0 65 26190 0 v5
+24.dat 16 1842(6)/mV 0 0 47 -30885 0 v6
+#<age>: 64
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: horizontal. 
+#Complete left bundle branch block. 
+#Left atrial hypertrophy. 
+#STEMI: anterior wall. 
+#STEMI: lateral wall. 
+#STEMI: septal. 
+#STEMI: apical. 

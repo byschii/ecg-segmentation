@@ -1,0 +1,19 @@
+174 12 500 5000
+174.dat 16 908(2)/mV 0 0 -68 10046 0 i
+174.dat 16 2170(1)/mV 0 0 -280 5936 0 ii
+174.dat 16 2421(-1)/mV 0 0 -212 -4110 0 iii
+174.dat 16 1150(-2)/mV 0 0 174 -8084 0 avr
+174.dat 16 1484(1)/mV 0 0 72 6885 0 avl
+174.dat 16 2270(0)/mV 0 0 -246 995 0 avf
+174.dat 16 2402(-1)/mV 0 0 1110 -2175 0 v1
+174.dat 16 3231(0)/mV 0 0 465 3209 0 v2
+174.dat 16 3261(-2)/mV 0 0 675 -5943 0 v3
+174.dat 16 3132(0)/mV 0 0 672 4056 0 v4
+174.dat 16 2705(-1)/mV 0 0 852 -4741 0 v5
+174.dat 16 2070(0)/mV 0 0 720 4735 0 v6
+#<age>: 39
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: normal. 
+#Right atrial overload. 

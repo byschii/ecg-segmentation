@@ -1,0 +1,20 @@
+53 12 500 5000
+53.dat 16 1238(1)/mV 0 0 -10 7909 0 i
+53.dat 16 1183(-4)/mV 0 0 -175 -19289 0 ii
+53.dat 16 602(-6)/mV 0 0 -165 -27198 0 iii
+53.dat 16 1141(1)/mV 0 0 92 5061 0 avr
+53.dat 16 869(3)/mV 0 0 77 16953 0 avl
+53.dat 16 815(-5)/mV 0 0 -170 -23884 0 avf
+53.dat 16 1559(-1)/mV 0 0 100 -4388 0 v1
+53.dat 16 1352(-2)/mV 0 0 -52 -5425 0 v2
+53.dat 16 1392(1)/mV 0 0 72 7501 0 v3
+53.dat 16 1757(1)/mV 0 0 42 7095 0 v4
+53.dat 16 1648(1)/mV 0 0 35 7574 0 v5
+53.dat 16 1369(1)/mV 0 0 30 8063 0 v6
+#<age>: 54
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

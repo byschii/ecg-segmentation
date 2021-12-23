@@ -1,0 +1,20 @@
+70 12 500 5000
+70.dat 16 895(-12)/mV 0 0 -60 5703 0 i
+70.dat 16 2100(-18)/mV 0 0 -120 -20812 0 ii
+70.dat 16 1485(-6)/mV 0 0 -60 -26515 0 iii
+70.dat 16 1428(14)/mV 0 0 90 8044 0 avr
+70.dat 16 542(-4)/mV 0 0 0 -15573 0 avl
+70.dat 16 1772(-12)/mV 0 0 -90 9986 0 avf
+70.dat 16 1630(-5)/mV 0 0 20 -21199 0 v1
+70.dat 16 1305(-2)/mV 0 0 40 -7427 0 v2
+70.dat 16 1275(-17)/mV 0 0 0 -18627 0 v3
+70.dat 16 1745(-18)/mV 0 0 -180 -21121 0 v4
+70.dat 16 1550(-21)/mV 0 0 -80 28714 0 v5
+70.dat 16 1475(-21)/mV 0 0 -120 30500 0 v6
+#<age>: 52
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus tachycardia.
+#Electric axis of the heart: normal. 
+#Incomplete right bundle branch block. 
+#Left atrial overload. 

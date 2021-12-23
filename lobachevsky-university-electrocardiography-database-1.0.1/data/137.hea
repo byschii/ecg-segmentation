@@ -1,0 +1,20 @@
+137 12 500 5000
+137.dat 16 1421(3)/mV 0 0 105 16074 0 i
+137.dat 16 832(1)/mV 0 0 15 6469 0 ii
+137.dat 16 1075(-2)/mV 0 0 -90 -9605 0 iii
+137.dat 16 931(-3)/mV 0 0 -60 -11387 0 avr
+137.dat 16 1249(2)/mV 0 0 98 12708 0 avl
+137.dat 16 625(-1)/mV 0 0 -37 -1682 0 avf
+137.dat 16 2319(0)/mV 0 0 -495 1663 0 v1
+137.dat 16 2324(-3)/mV 0 0 -105 -11154 0 v2
+137.dat 16 2182(-1)/mV 0 0 -65 -2278 0 v3
+137.dat 16 1794(1)/mV 0 0 97 7762 0 v4
+137.dat 16 1136(0)/mV 0 0 100 550 0 v5
+137.dat 16 733(0)/mV 0 0 25 1399 0 v6
+#<age>: 58
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 

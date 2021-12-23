@@ -1,0 +1,24 @@
+28 12 500 5000
+28.dat 16 1635(2)/mV 0 0 5 10202 0 i
+28.dat 16 1229(-2)/mV 0 0 0 -6330 0 ii
+28.dat 16 1486(-4)/mV 0 0 -5 -16532 0 iii
+28.dat 16 1328(-1)/mV 0 0 -2 -2696 0 avr
+28.dat 16 1433(2)/mV 0 0 5 13014 0 avl
+28.dat 16 1125(-3)/mV 0 0 -2 -12296 0 avf
+28.dat 16 2603(0)/mV 0 0 120 374 0 v1
+28.dat 16 2869(-2)/mV 0 0 2 -9751 0 v2
+28.dat 16 2780(-1)/mV 0 0 0 -3716 0 v3
+28.dat 16 3029(-5)/mV 0 0 -87 -20384 0 v4
+28.dat 16 3144(5)/mV 0 0 52 29786 0 v5
+28.dat 16 2584(2)/mV 0 0 -77 14274 0 v6
+#<age>: 77
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#Scar formation: anterior wall. 
+#Scar formation: septal. 
+#Undefined ischemia/scar/supp.NSTEMI: lateral wall. 
+#Undefined ischemia/scar/supp.NSTEMI: posterior wall. 

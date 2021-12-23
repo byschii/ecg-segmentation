@@ -1,0 +1,19 @@
+121 12 500 5000
+121.dat 16 800(-19)/mV 0 0 -80 -25091 0 i
+121.dat 16 1220(-12)/mV 0 0 140 7427 0 ii
+121.dat 16 1670(6)/mV 0 0 220 32518 0 iii
+121.dat 16 610(14)/mV 0 0 -30 8812 0 avr
+121.dat 16 1185(-13)/mV 0 0 -150 4595 0 avl
+121.dat 16 1320(-3)/mV 0 0 180 -12578 0 avf
+121.dat 16 2771(-14)/mV 0 0 20 -1396 0 v1
+121.dat 16 1650(-2)/mV 0 0 440 -8077 0 v2
+121.dat 16 4225(32)/mV 0 0 2260 29889 0 v3
+121.dat 16 2160(-4)/mV 0 0 500 -18170 0 v4
+121.dat 16 1840(-3)/mV 0 0 480 -13616 0 v5
+121.dat 16 2555(-8)/mV 0 0 520 28033 0 v6
+#<age>: 68
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Electric axis of the heart: left axis deviation. 
+#Left ventricular hypertrophy. 

@@ -1,0 +1,19 @@
+41 12 500 5000
+41.dat 16 390(-21)/mV 0 0 -40 30685 0 i
+41.dat 16 1455(-21)/mV 0 0 -120 27212 0 ii
+41.dat 16 1245(-1)/mV 0 0 -80 -3473 0 iii
+41.dat 16 893(20)/mV 0 0 80 -28940 0 avr
+41.dat 16 573(-10)/mV 0 0 20 18365 0 avl
+41.dat 16 1310(-11)/mV 0 0 -100 13135 0 avf
+41.dat 16 1120(1)/mV 0 0 -20 7672 0 v1
+41.dat 16 1315(-2)/mV 0 0 -40 -9520 0 v2
+41.dat 16 2020(-12)/mV 0 0 20 10483 0 v3
+41.dat 16 3042(-19)/mV 0 0 -200 -28016 0 v4
+41.dat 16 3575(-19)/mV 0 0 -160 -29291 0 v5
+41.dat 16 1760(-18)/mV 0 0 60 -23062 0 v6
+#<age>: 34
+#<sex>: M
+#<diagnoses>:
+#Rhythm: Sinus bradycardia.
+#Electric axis of the heart: normal. 
+#Incomplete right bundle branch block. 

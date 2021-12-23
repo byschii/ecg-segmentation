@@ -1,0 +1,23 @@
+112 12 500 5000
+112.dat 16 915(-10)/mV 0 0 -20 19628 0 i
+112.dat 16 1425(-8)/mV 0 0 -40 29751 0 ii
+112.dat 16 1305(2)/mV 0 0 -20 10123 0 iii
+112.dat 16 966(8)/mV 0 0 30 -25001 0 avr
+112.dat 16 918(-6)/mV 0 0 0 -27663 0 avl
+112.dat 16 1355(-3)/mV 0 0 -30 -13181 0 avf
+112.dat 16 1200(-9)/mV 0 0 240 22529 0 v1
+112.dat 16 2370(-11)/mV 0 0 -20 11850 0 v2
+112.dat 16 3755(-7)/mV 0 0 -60 -32025 0 v3
+112.dat 16 3525(-9)/mV 0 0 0 23385 0 v4
+112.dat 16 2505(-11)/mV 0 0 80 13690 0 v5
+112.dat 16 1320(-19)/mV 0 0 20 -26239 0 v6
+#<age>: 54
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Atrial fibrillation.
+#Electric axis of the heart: left axis deviation. 
+#Incomplete left bundle branch block. 
+#Left ventricular hypertrophy. 
+#Undefined ischemia/scar/supp.NSTEMI: lateral wall. 
+#Undefined ischemia/scar/supp.NSTEMI: septal. 
+#Undefined ischemia/scar/supp.NSTEMI: posterior wall. 

@@ -1,0 +1,21 @@
+72 12 500 5000
+72.dat 16 3460(26)/mV 0 0 -560 3299 0 i
+72.dat 16 1776(-14)/mV 0 0 -720 -2870 0 ii
+72.dat 16 3145(-41)/mV 0 0 -160 -6169 0 iii
+72.dat 16 2222(-7)/mV 0 0 640 32637 0 avr
+72.dat 16 3128(33)/mV 0 0 -200 -27422 0 avl
+72.dat 16 1719(-28)/mV 0 0 -440 -4033 0 avf
+72.dat 16 1932(-7)/mV 0 0 -480 -30476 0 v1
+72.dat 16 1742(12)/mV 0 0 -220 -3877 0 v2
+72.dat 16 1600(13)/mV 0 0 -440 4273 0 v3
+72.dat 16 1750(-13)/mV 0 0 -640 3684 0 v4
+72.dat 16 1800(-25)/mV 0 0 -440 9126 0 v5
+72.dat 16 2020(-15)/mV 0 0 -180 -7312 0 v6
+#<age>: 75
+#<sex>: F
+#<diagnoses>:
+#Rhythm: Sinus rhythm.
+#Incomplete right bundle branch block. 
+#Left atrial hypertrophy. 
+#Left ventricular hypertrophy. 
+#P-synchrony. 
