@@ -1,0 +1,33 @@
+P
+    onset
+        recall = 94.8
+        precision = 87.3
+        13.72 +- 15.48 (in capioni)
+        m_iou = 84.36
+    offset
+        recall = 98.14
+        precision = 90.94
+        6.69 +- 11.34 (in capioni)
+        m_iou = 84.36
+QRS
+    onset
+        recall = 98.2
+        precision = 97.74
+        6.41 +- 6.86 (in capioni)
+        m_iou = 91.89
+    offset
+        recall = 99.59
+        precision = 98.42
+        4.98 +- 7.7 (in capioni)
+        m_iou = 91.89
+T
+    onset
+        recall = 96.44
+        precision = 92.01
+        19.55 +- 19.64 (in capioni)
+        m_iou = 86.36
+    offset
+        recall = 98.23
+        precision = 93.68
+        10.61 +- 18.26 (in capioni)
+        m_iou = 86.36
